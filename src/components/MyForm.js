@@ -1,5 +1,6 @@
 import { useState } from "react";
 import { Row, Col, Input, Button, Label } from "reactstrap";
+import SendEmail from "./SendEmail";
 
 const ExampleForm = () => {
     const [rows, setRows] = useState([{}]);
@@ -133,6 +134,7 @@ const ExampleForm = () => {
             <Button color="primary" onClick={handleAddRow}>
                 Add Row
             </Button>
+            <SendEmail/>
         </>
     );
 };

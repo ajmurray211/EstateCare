@@ -1,9 +1,10 @@
+import logo from '../assets/EstateCareLogo.png'
+
+
 const Header = () => {
     return ( 
         <div className="header">
-            <h1>
-                Estate care
-            </h1>
+            <img src={logo}/>
             <h2>
                 Time Sheet
             </h2>
