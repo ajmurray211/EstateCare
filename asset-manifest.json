@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/EstateCare/static/css/main.375b0109.css",
+    "main.js": "/EstateCare/static/js/main.972949c8.js",
+    "static/js/787.cb6fdd00.chunk.js": "/EstateCare/static/js/787.cb6fdd00.chunk.js",
+    "static/media/EstateCareLogo.png": "/EstateCare/static/media/EstateCareLogo.57b9ea3b11c61f0e9c9e.png",
+    "index.html": "/EstateCare/index.html",
+    "main.375b0109.css.map": "/EstateCare/static/css/main.375b0109.css.map",
+    "main.972949c8.js.map": "/EstateCare/static/js/main.972949c8.js.map",
+    "787.cb6fdd00.chunk.js.map": "/EstateCare/static/js/787.cb6fdd00.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.375b0109.css",
+    "static/js/main.972949c8.js"
+  ]
+}
