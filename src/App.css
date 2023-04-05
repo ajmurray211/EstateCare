@@ -3,7 +3,15 @@
 }
 
 /* header styles */
-.header{
+.header {
   display: flex;
   justify-content: space-around;
+}
+
+
+/* row styling */
+.jobInput {
+  border-bottom: 1px solid black;
+  margin: 5px;
+  padding-bottom: 15px;
 }
